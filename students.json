@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "lia",
+        "mail": "lia@gmail.com",
+        "math" : 0,
+        "english" : 0,
+        "computers" : 0 
+    },
+    {
+        "id": 2,
+        "name": "liraz",
+        "mail": "liraz@gmail.com",
+        "math" : 0,
+        "english" : 0,
+        "computers" : 0 
+    },
+    {
+        "id": 3,
+        "name": "nisso",
+        "mail": "nisso@gmail.com",
+        "math" : 0,
+        "english" : 0,
+        "computers" : 0 
+    },
+    {
+        "id": 4,
+        "name": "galit",
+        "mail": "galit@gmail.com",
+        "math" : 0,
+        "english" : 0,
+        "computers" : 0 
+    },
+    {
+        "id": 5,
+        "name": "may",
+        "mail": "may@gmail.com",
+        "math" : 0,
+        "english" : 0,
+        "computers" : 0 
+    }
+]
